@@ -1,0 +1,4 @@
+%syntax-version=1.0.0
+%project=greeny_database
+
+01_init 2024-08-12T17:55:14Z camille gripon <gripon@Bidule> # init db
